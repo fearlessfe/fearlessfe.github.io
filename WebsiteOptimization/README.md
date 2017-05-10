@@ -16,6 +16,7 @@
 ```bash
   $> cd /你的工程目录
   $> python -m SimpleHTTPServer 8080
+  python -m http.server    默认为8000端口
 ```
 
 1. 打开浏览器，访问 localhost:8080
